@@ -1,0 +1,141 @@
+{
+  "categorias": [
+    {
+      "titulo": "PC mounting",
+      "link": "https://www.zoom.com.br/pc-computador/all-in-one",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Para monter um Pc monstro",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Study Music Super Memory",
+          "url": "https://www.youtube.com/watch?v=mg7netw1JuM&t=6331s"
+        },
+        {
+          "titulo": "ANÁLISE RYZEN 3600XT, 3800XT e 3900XT: VALE A PENA? Testes em GAMES com Ryzen 7 3800XT e OVERCLOCK",
+          "url": "https://www.youtube.com/watch?v=7_f8TdReBZc"
+        },
+        {
+          "titulo": "GTX 1650 Super vs RX 580 8GB: MELHOR CUSTO X BENEFÍCIO 2020? CONSUMO, TEMPERATURA, GAMES. Compensa?",
+          "url": "https://www.youtube.com/watch?v=Luogk7bvN4w"
+        },
+        {
+          "titulo": "Ryzen 3 3300X melhor que Core i7 7700K? E o Ryzen 5 1600 AF? Melhor CPU custo x benefício em GAMES?",
+          "url": "https://www.youtube.com/watch?v=QC5l6ApQDOM"
+        },
+        {
+          "titulo": "TUDO QUE VOCÊ DEVE SABER! Single Channel vs. Dual Channel | 1x8, 2x4, 8+4 ou 2x8GB???",
+          "url": "https://www.youtube.com/watch?v=qGaHqL6e2KU"
+        },
+        {
+          "titulo": "AMD SURPREENDEU COM RYZEN 7 3800XT... MAS VALEU A PENA??? JOGOS e BENCHMARKS",
+          "url": "https://www.youtube.com/watch?v=iww5-PPBDtQ"
+        },
+        {
+          "titulo": "Um dos Melhores MOUSE GAMER no Brasil | Pichau Gaming P702 RGB",
+          "url": "https://www.youtube.com/watch?v=i6wbkStDPIE"
+        }      
+      ]
+    },
+    {
+      "titulo": "Gaming",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Gameplays for fun",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "SÓ OS GENIOS EM POTENCIAL TLOU2 25",
+          "url": "https://www.youtube.com/watch?v=P1WDxtjJ2P4&t=2326s"
+        },
+        {
+          "titulo": "A CASA CAIU TLOU2 26",
+          "url": "https://www.youtube.com/watch?v=E9BN80E1gO0"
+        },
+        {
+          "titulo": "O CRUZADO MAIS BEM DADO DA HISTORIA 27",
+          "url": "https://www.youtube.com/watch?v=ESf0w7lbASw"
+        },
+        {
+          "titulo": "A MENSAGEM DA VIDA Final",
+          "url": "https://www.youtube.com/watch?v=F0dan3gPbUk"
+        } 
+      ]
+    },
+    {
+      "titulo": "Fisica Basica",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Curso de Fisica Basica",
+        "url": "https://efisica.atp.usp.br/home/"
+      },
+      "videos": [
+        {
+          "titulo": "O Que É Energia? | Episódio 1",
+          "url": "https://www.youtube.com/watch?v=3VLPyOLC1nc&list=PL0nD5TmBL3j14kzIhvsQ4Wvpz3J8qIH9V"
+        },
+        {
+          "titulo": "A Teoria do Movimento | Episódio 2",
+          "url": "https://www.youtube.com/watch?v=X6mQcBdFkXQ&list=PL0nD5TmBL3j14kzIhvsQ4Wvpz3J8qIH9V&index=2"
+        },
+        {
+          "titulo": "Quantidade de Movimento Explicada (Momento) | Episódio 3",
+          "url": "https://www.youtube.com/watch?v=Seb29XUjakk&list=PL0nD5TmBL3j14kzIhvsQ4Wvpz3J8qIH9V&index=3"
+        },
+        {
+          "titulo": "A Primeira Lei de Newton (Lei da Inércia) Explicada | Episódio 4",
+          "url": "https://www.youtube.com/watch?v=RoyecFxgwTs&list=PL0nD5TmBL3j14kzIhvsQ4Wvpz3J8qIH9V&index=4"
+        },
+        {
+          "titulo": "A Segunda Lei de Newton Explicada | Episódio 5",
+          "url": "https://www.youtube.com/watch?v=gS1FnfzG-lg&list=PL0nD5TmBL3j14kzIhvsQ4Wvpz3J8qIH9V&index=5"
+        },
+        {
+          "titulo": "A Terceira Lei de Newton Explicada | Episódio 6",
+          "url": "https://www.youtube.com/watch?v=Ei6DcLyNuyI&list=PL0nD5TmBL3j14kzIhvsQ4Wvpz3J8qIH9V&index=6"
+        },
+        {
+          "titulo": "IMPULSO | Episódio 7",
+          "url": "https://www.youtube.com/watch?v=b0lk_OAGgQw&list=PL0nD5TmBL3j14kzIhvsQ4Wvpz3J8qIH9V&index=7"
+        },
+        {
+          "titulo": "O TEOREMA DO TRABALHO-ENERGIA | Episódio 8",
+          "url": "https://www.youtube.com/watch?v=h0W5Z4tTqjc&list=PL0nD5TmBL3j14kzIhvsQ4Wvpz3J8qIH9V&index=8"
+        }
+      ]
+    },
+    {
+      "titulo": "Hacking Videos For Study",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Falha GRAVE da UOL permite invasão por um simples envio de E-MAIL",
+          "url": "https://www.youtube.com/watch?v=Ud-Z3vrJKTk&list=PL0nD5TmBL3j2md1MrJ3h52agdhWQxkwpy"
+        },
+        {
+          "titulo": "Posso ser INVADIDO ao jogar CS:GO ou TF2? O código fonte da VALVE foi vazado!",
+          "url": "https://www.youtube.com/watch?v=nX5ocw45bpw&list=PL0nD5TmBL3j2md1MrJ3h52agdhWQxkwpy&index=2"
+        },
+        {
+          "titulo": "Fiz um Bot que vota sozinho no BBB! - Dá pra Hackear o Paredão?",
+          "url": "https://www.youtube.com/watch?v=ll8ewMMFsPg&list=PL0nD5TmBL3j2md1MrJ3h52agdhWQxkwpy&index=3"
+        },
+        {
+          "titulo": "HARDWARE para TRAPACEAR EM JOGOS: Os cheats quase indetectáveis (Ft. Julio Della Flora)",
+          "url": "https://www.youtube.com/watch?v=1zmLfUzu3S8&list=PL0nD5TmBL3j2md1MrJ3h52agdhWQxkwpy&index=4"
+        },
+        {
+          "titulo": "Ganhei 45 MIL REAIS por uma FALHA do FACEBOOK",
+          "url": "https://www.youtube.com/watch?v=Q0pKIwHbI5s&list=PL0nD5TmBL3j2md1MrJ3h52agdhWQxkwpy&index=6"
+        },
+        {
+          "titulo": "DLL Injection to Create a Fly Hack - Pwn Adventure 3",
+          "url": "https://www.youtube.com/watch?v=8Z1D64qfrxM&list=PL0nD5TmBL3j2md1MrJ3h52agdhWQxkwpy&index=8"
+        }
+      ]
+    }
+  ]
+}

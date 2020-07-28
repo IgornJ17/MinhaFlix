@@ -6,7 +6,7 @@ import BannerMain from '../../components/BannerMain';
 import Caroseul from '../../components/Carousel';
 import Footer from '../../components/Footer';
 
-function Home() {
+function Home() { //Componente responsavel pela renderizacao e organizacao de nossa pagina atual, os dados sao capturados pelo arquivo Json em data/
   return (
     <div>
       <Menu />

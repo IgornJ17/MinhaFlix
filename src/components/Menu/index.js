@@ -1,3 +1,4 @@
+//=======================Import_Level========================================================================================================
 import React from 'react';
 import { Link } from 'react-router-dom'
 import Logo from '../../assets/img/minhaFlix.png';
@@ -5,7 +6,12 @@ import './Menu.css';
 //import ButtonLink from '../ButtonLink';
 import Button from '../Button'
 
-function Menu(){ //Function componente para a inicializacao de nossa pagina.
+//====================Variable_Level============================================================================================================
+ 
+
+
+//==========================MAIN_Level===========================================================================================================
+function Menu(){ //Function componente para a criacao do MenuBar de nossa pagina.
 	return (
 		<nav className="Menu">
 			<Link to="/">
@@ -13,10 +19,10 @@ function Menu(){ //Function componente para a inicializacao de nossa pagina.
 			</Link>
 
 			<Button as={Link} className="ButtonLink" to="/cadastro/video">
-				New Video
+				Add new video
 			</Button>
 		</nav>
-	); //retorna uma configuracao HTML ou JSX para ser executado na chamada da pagina.
+	); //retorna uma configuracao HTML ou JSX para ser executado na criacao do MenuBar da pagina.
 }
 
 export default Menu; //Exporta a function menu como um modulo Menu para ser utilizado no App.js (Importado sem a necessidade de chaves)

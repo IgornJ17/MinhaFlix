@@ -2,6 +2,7 @@ import React from 'react';
 import { FooterBase } from './styles';
 import Logo from '../../assets/img/minhaFlix.png';
 
+
 function Footer() {
   return (
     <FooterBase>

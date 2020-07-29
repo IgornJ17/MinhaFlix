@@ -2,14 +2,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import Home from './pages/Home/App';
+import Home from './pages/Home/Home';
 //import * as serviceWorker from './serviceWorker';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import CadastroVideo from './pages/cadastro/Video';
+import CadastroCategoria from './pages/cadastro/Categoria';
 
 
 //====================Variable_Level============================================================================================================
-const ReturnNotFoundError = () => (<div>Pagina 404</div>) //Cria 
+const ReturnNotFoundError = () => (window.location.assign("https://editor.p5js.org/igorjuliani16/full/m3o1gJFP")) //Cria 
 
 
 
@@ -19,6 +20,7 @@ ReactDOM.render(
     <Switch>
       <Route path="/" component={Home} exact />
       <Route path="/cadastro/video" component={CadastroVideo} /> 
+      <Route path="/cadastro/categoria" component={CadastroCategoria} /> 
       <Route component={ReturnNotFoundError} />   
     </Switch>
   </BrowserRouter>,

@@ -22,7 +22,7 @@ function Menu(){ //Function componente para a criacao do MenuBar de nossa pagina
 				Add new video
 			</Button>
 		</nav>
-	); //retorna uma configuracao HTML ou JSX para ser executado na criacao do MenuBar da pagina.
+	); //retorna uma configuracao HTML ou JSX para ser executado na criacao do MenuBar da pagina. Utilizando o Modulo importado do react-router-dom, chamado LINK podemos criar o roteamento baseado na URI informada pelo Client
 }
 
 export default Menu; //Exporta a function menu como um modulo Menu para ser utilizado no App.js (Importado sem a necessidade de chaves)
